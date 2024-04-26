@@ -1,5 +1,7 @@
 # wechat_for_linux
 
+
+
 ## 更新
 
 好好好，再也不骂腾讯和微信了，终于出了好用的官方版本微信了。
@@ -22,18 +24,11 @@ wechat-beta_1.0.1.212_loongarch64.deb
 
 =================我是分割线============================
 
-`我只能说腾讯的产品都是垃圾，linux版破微信就web套壳还要搞系统限制`
+通过bwrap模拟来绕过系统限制的版本可通过应用商店一键下载，支持x86,arm,龙芯新世界的各种发行版
 
-wechat_for_linux；weixin_for_linux；
+https://spark-store-project.gitee.io/spk-resolv/?spk=spk://store/chat/store.spark-app.wechat-linux-spark
 
-ubuntukylin版本的微信（wechat），亲测可以在ubuntu20.04使用：
 
-```
-文件：weixin_2.1.1_amd64.deb
-md5：d6827fc8a0a86ac88a3fd0068700095e
-```
-
-2021年12月31日，腾讯更新了UOS版本微信（年更），ubuntu下以前修改版的wechat-uos无法登录了，新uos的客户端会提示`user kv not init.`报错，找了找ubuntukylin的新客户端包可以在ubuntu20.04下使用：
 
 http://archive.ubuntukylin.com/ubuntukylin/pool/partner/weixin_2.1.1_amd64.deb
 
